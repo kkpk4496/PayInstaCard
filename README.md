@@ -1,1 +1,1 @@
-PinSacale Assignment
+PayInstaCard Private Limited Assignment

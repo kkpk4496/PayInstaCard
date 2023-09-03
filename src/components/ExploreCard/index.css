@@ -1,0 +1,44 @@
+.explore-card-cont {
+  display: flex;
+  list-style-type: none;
+  margin: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  max-width: 400px;
+}
+
+.explore-card-img-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.explore-card-img {
+  border-radius: 100px;
+  width: 50px;
+  height: 50px;
+}
+
+.explore-card-info-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-left: 5px;
+}
+
+@media screen and (min-width: 768px) {
+}
+
+.explore-card-info-head {
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin-bottom: 0px;
+}
+
+.explore-card-info {
+  font-family: 'Roboto';
+  font-size: 12px;
+  max-width: 200px;
+  margin-top: 0px;
+}
